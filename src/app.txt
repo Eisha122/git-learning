@@ -2,6 +2,7 @@ TINY TASKS APPLICATION
 
 Purpose:
 A simple task management application.
+A user friendly application.
 
 Features:
 1. Add a task.
