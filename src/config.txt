@@ -1,0 +1,4 @@
+app_name=Tiny Tasks
+default_status=pending
+welcome_message=Welcome to Tiny Tasks
+EOF

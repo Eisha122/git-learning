@@ -1,0 +1,10 @@
+TINY TASKS APPLICATION
+
+Purpose:
+A simple task management application.
+
+Features:
+1. Add a task.
+2. Display all tasks.
+3. Mark a task as completed.
+EOF
