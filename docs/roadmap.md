@@ -9,4 +9,5 @@
 - Delete tasks
 - Search tasks
 - Filter tasks
+- updating to version 2.1
 EOF
